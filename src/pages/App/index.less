@@ -1,0 +1,56 @@
+.App {
+  height: 100vh;
+  .logo {
+    height: 32px;
+    display: flex;
+    align-items: center;
+    margin: 16px;
+    img {
+      height: 32px;
+      width: 40px;
+    }
+    span {
+      line-height: 32px;
+      font-weight: 700;
+      font-size: 26px;
+      color: #2f75f5;
+      margin: 5px 0 0 5px;
+    }
+  }
+  .trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+    &:hover {
+      color: #1890ff;
+    }
+  }
+  .ant-layout-sider, .ant-menu-item, .ant-menu {
+    background: #f7f8f7;
+  }
+
+  .header {
+    background: #fff;
+    display: flex;
+    overflow: hidden;
+
+    .trigger {
+      margin-top: 3px;
+    }
+
+    #breadcrumb {
+      flex: 1;
+    }
+  }
+
+  .content, .footer {
+    background: #ffffff;
+  }
+
+  Footer {
+    text-align: center;
+    color: #c3c3c3;
+  }
+}

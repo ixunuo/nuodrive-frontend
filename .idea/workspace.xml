@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af48ed91-0c5b-4635-8585-9613b04758c5" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/components/safeButtom/safeButtom.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/components/uni-icons/icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/components/uni-icons/uni-icons.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/components/uni-nav-bar/uni-nav-bar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/components/uni-status-bar/uni-status-bar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/components/uni-steps/uni-steps.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/lib/getCK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/lib/md5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/lib/qqmap-wx-jssdk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/SOrderDetail/SOrderDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/SOrderList/SOrderList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/bug/bug.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/deviceDetail/components/calendar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/deviceDetail/deviceDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/index/cityLists.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/index/components/carType.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/index/components/confirm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/index/components/orderInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/index/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/me/components/menuItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/me/me.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/orderDetail/orderDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/orderList/orderList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/paySuccess/paySuccess.nvue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/preBecomeS/preBecomeS.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/setOrder/setOrder.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/uploadIdentity/components/card.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/uploadIdentity/components/nSelect.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/pages/uploadIdentity/uploadIdentity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/static/styles/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uni.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/__uniappchooselocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/__uniappes6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/__uniappopenlocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/__uniapppicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/__uniappquill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/__uniappquillimageresize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/__uniappscan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/__uniappsuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/__uniappview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/app-config-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/app-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/app-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/app-view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/pages/paySuccess/paySuccess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/static/styles/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/view.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/app-plus/view.umd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/common/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/common/main.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/common/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/common/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/safeButtom/safeButtom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/safeButtom/safeButtom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/safeButtom/safeButtom.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-icons/uni-icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-icons/uni-icons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-icons/uni-icons.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-icons/uni-icons.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-nav-bar/uni-nav-bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-nav-bar/uni-nav-bar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-nav-bar/uni-nav-bar.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-nav-bar/uni-nav-bar.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-status-bar/uni-status-bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-status-bar/uni-status-bar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-status-bar/uni-status-bar.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-status-bar/uni-status-bar.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-steps/uni-steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-steps/uni-steps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-steps/uni-steps.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/components/uni-steps/uni-steps.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/SOrderDetail/SOrderDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/SOrderDetail/SOrderDetail.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/SOrderDetail/SOrderDetail.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/SOrderDetail/SOrderDetail.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/SOrderList/SOrderList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/SOrderList/SOrderList.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/SOrderList/SOrderList.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/SOrderList/SOrderList.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/deviceDetail/components/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/deviceDetail/components/calendar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/deviceDetail/components/calendar.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/deviceDetail/components/calendar.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/deviceDetail/deviceDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/deviceDetail/deviceDetail.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/deviceDetail/deviceDetail.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/deviceDetail/deviceDetail.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/cityLists.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/cityLists.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/cityLists.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/cityLists.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/carType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/carType.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/carType.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/carType.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/confirm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/confirm.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/confirm.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/confirm.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/orderInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/orderInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/orderInfo.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/components/orderInfo.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/me/components/menuItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/me/components/menuItem.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/me/components/menuItem.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/me/components/menuItem.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/me/me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/me/me.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/me/me.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/me/me.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/orderDetail/orderDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/orderDetail/orderDetail.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/orderDetail/orderDetail.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/orderDetail/orderDetail.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/orderList/orderList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/orderList/orderList.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/orderList/orderList.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/orderList/orderList.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/paySuccess/paySuccess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/paySuccess/paySuccess.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/paySuccess/paySuccess.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/paySuccess/paySuccess.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/preBecomeS/preBecomeS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/preBecomeS/preBecomeS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/preBecomeS/preBecomeS.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/preBecomeS/preBecomeS.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/setOrder/setOrder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/setOrder/setOrder.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/setOrder/setOrder.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/setOrder/setOrder.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/components/card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/components/card.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/components/card.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/components/card.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/components/nSelect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/components/nSelect.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/components/nSelect.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/components/nSelect.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/uploadIdentity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/uploadIdentity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/uploadIdentity.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/pages/uploadIdentity/uploadIdentity.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap33.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap35.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap59.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap66.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap70.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap76.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap78.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap83.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap85.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/sitemap98.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/static/styles/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-button/u-button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-button/u-button.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-button/u-button.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-button/u-button.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-calendar/u-calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-calendar/u-calendar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-calendar/u-calendar.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-calendar/u-calendar.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-checkbox/u-checkbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-checkbox/u-checkbox.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-checkbox/u-checkbox.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-checkbox/u-checkbox.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-gap/u-gap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-gap/u-gap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-gap/u-gap.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-gap/u-gap.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-icon/u-icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-icon/u-icon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-icon/u-icon.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-icon/u-icon.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-index-anchor/u-index-anchor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-index-anchor/u-index-anchor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-index-anchor/u-index-anchor.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-index-anchor/u-index-anchor.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-index-list/u-index-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-index-list/u-index-list.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-index-list/u-index-list.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-index-list/u-index-list.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-line/u-line.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-line/u-line.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-line/u-line.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-line/u-line.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-loading/u-loading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-loading/u-loading.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-loading/u-loading.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-loading/u-loading.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-loadmore/u-loadmore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-loadmore/u-loadmore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-loadmore/u-loadmore.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-loadmore/u-loadmore.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-mask/u-mask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-mask/u-mask.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-mask/u-mask.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-mask/u-mask.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-navbar/u-navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-navbar/u-navbar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-navbar/u-navbar.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-navbar/u-navbar.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-popup/u-popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-popup/u-popup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-popup/u-popup.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-popup/u-popup.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-search/u-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-search/u-search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-search/u-search.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-search/u-search.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-steps/u-steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-steps/u-steps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-steps/u-steps.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-steps/u-steps.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-subsection/u-subsection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-subsection/u-subsection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-subsection/u-subsection.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-subsection/u-subsection.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-swiper/u-swiper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-swiper/u-swiper.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-swiper/u-swiper.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-swiper/u-swiper.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs-swiper/u-tabs-swiper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs-swiper/u-tabs-swiper.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs-swiper/u-tabs-swiper.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs-swiper/u-tabs-swiper.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs/u-tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs/u-tabs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs/u-tabs.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs/u-tabs.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs2/u-tabs2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs2/u-tabs2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs2/u-tabs2.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-tabs2/u-tabs2.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-toast/u-toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-toast/u-toast.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-toast/u-toast.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/unpackage/dist/dev/mp-weixin/uview-ui/components/u-toast/u-toast.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-action-sheet/u-action-sheet.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-alert-tips/u-alert-tips.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-avatar-cropper/u-avatar-cropper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-avatar-cropper/weCropper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-avatar/u-avatar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-back-top/u-back-top.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-badge/u-badge.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-button/u-button.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-calendar/u-calendar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-car-keyboard/u-car-keyboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-card/u-card.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-cell-group/u-cell-group.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-cell-item/u-cell-item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-checkbox-group/u-checkbox-group.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-checkbox/u-checkbox.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-circle-progress/u-circle-progress.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-col/u-col.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-collapse-item/u-collapse-item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-collapse/u-collapse.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-column-notice/u-column-notice.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-count-down/u-count-down.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-count-to/u-count-to.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-divider/u-divider.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-dropdown-list/u-dropdown-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-empty/u-empty.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-field/u-field.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-form-item/u-form-item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-form/u-form.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-full-screen/u-full-screen.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-gap/u-gap.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-grid-item/u-grid-item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-grid/u-grid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-icon/u-icon.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-image/u-image.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-index-anchor/u-index-anchor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-index-list/u-index-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-input/u-input.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-keyboard/u-keyboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-lazy-load/u-lazy-load.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-line-progress/u-line-progress.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-line/u-line.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-link/u-link.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-loading/u-loading.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-loadmore/u-loadmore.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-mask/u-mask.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-message-input/u-message-input.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-modal/u-modal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-navbar/u-navbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-no-network/u-no-network.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-notice-bar/u-notice-bar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-number-box/u-number-box.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-number-keyboard/u-number-keyboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-parse/libs/CssHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-parse/libs/MpHtmlParser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-parse/libs/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-parse/libs/handler.wxs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-parse/libs/trees.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-parse/u-parse.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-picker/u-picker.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-popup/u-popup.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-radio-group/u-radio-group.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-radio/u-radio.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-rate/u-rate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-read-more/u-read-more.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-row-notice/u-row-notice.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-row/u-row.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-search/u-search.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-section/u-section.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-select/u-select.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-skeleton/u-skeleton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-slider/u-slider.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-steps/u-steps.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-sticky/u-sticky.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-subsection/u-subsection.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-swipe-action/u-swipe-action.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-swiper/u-swiper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-switch/u-switch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-tabbar/u-tabbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-table/u-table.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-tabs-swiper/u-tabs-swiper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-tabs/u-tabs.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-tabs2/u-tabs2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-tag/u-tag.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-td/u-td.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-th/u-th.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-time-line-item/u-time-line-item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-time-line/u-time-line.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-toast/u-toast.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-top-tips/u-top-tips.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-tr/u-tr.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-upload/u-upload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-verification-code/u-verification-code.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/components/u-waterfall/u-waterfall.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/config/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/config/zIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/css/color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/css/common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/css/style.components.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/css/style.h5.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/css/style.mp.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/css/style.nvue.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/css/style.vue.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/$parent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/addUnit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/bem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/colorGradient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/deepClone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/deepMerge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/getParent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/guid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/md5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/queryParams.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/random.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/randomArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/timeFormat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/timeFrom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/trim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/function/type2icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/mixin/mixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/mixin/mpShare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/request/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/util/area.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/util/async-validator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/util/city.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/util/emitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/libs/util/province.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp 2/uview-ui/theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NBB_uniapp2/NBB_uniapp.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/index/HomeSwiper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/index/components/HomeHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/index/components/HomeIcon.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/index/components/HomeSwiper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/index/components/MusicListRecommend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/index/components/MusicRecommend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/index/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/musicList/components/item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/musicList/musicList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/musicList/test.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/player/components/Control.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/player/components/Lyrics.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/player/components/volume.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/player/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/search/components/SearchResult.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/pages/search/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/static/style/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/static/style/mixins.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uni.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/.automator/app-plus/.automator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/__uniappchooselocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/__uniappes6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/__uniappopenlocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/__uniapppicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/__uniappquill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/__uniappquillimageresize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/__uniappscan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/__uniappsuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/__uniappview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/app-config-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/app-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/app-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/app-view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/static/style/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/static/style/mixins.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/view.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/unpackage/dist/dev/app-plus/view.umd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-action-sheet/u-action-sheet.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-alert-tips/u-alert-tips.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-avatar-cropper/u-avatar-cropper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-avatar-cropper/weCropper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-avatar/u-avatar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-back-top/u-back-top.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-badge/u-badge.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-button/u-button.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-calendar/u-calendar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-car-keyboard/u-car-keyboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-card/u-card.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-cell-group/u-cell-group.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-cell-item/u-cell-item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-checkbox-group/u-checkbox-group.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-checkbox/u-checkbox.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-circle-progress/u-circle-progress.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-col/u-col.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-collapse-item/u-collapse-item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-collapse/u-collapse.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-column-notice/u-column-notice.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-count-down/u-count-down.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-count-to/u-count-to.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-divider/u-divider.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-dropdown-list/u-dropdown-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-empty/u-empty.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-field/u-field.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-form-item/u-form-item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-form/u-form.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-full-screen/u-full-screen.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-gap/u-gap.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-grid-item/u-grid-item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-grid/u-grid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-icon/u-icon.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-image/u-image.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-index-anchor/u-index-anchor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-index-list/u-index-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-input/u-input.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-keyboard/u-keyboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-lazy-load/u-lazy-load.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-line-progress/u-line-progress.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-line/u-line.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-link/u-link.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-loading/u-loading.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-loadmore/u-loadmore.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-mask/u-mask.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-message-input/u-message-input.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-modal/u-modal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-navbar/u-navbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-navbar2/u-navbar2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-no-network/u-no-network.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-notice-bar/u-notice-bar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-number-box/u-number-box.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-number-keyboard/u-number-keyboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-picker/u-picker.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-popup/u-popup.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-radio-group/u-radio-group.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-radio/u-radio.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-rate/u-rate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-read-more/u-read-more.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-row-notice/u-row-notice.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-row/u-row.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-search/u-search.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-section/u-section.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-select/u-select.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-skeleton/u-skeleton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-slider/u-slider.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-steps/u-steps.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-sticky/u-sticky.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-subsection/u-subsection.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-swipe-action/u-swipe-action.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-swiper/u-swiper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-switch/u-switch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-tabbar/u-tabbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-table/u-table.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-tabs-swiper/u-tabs-swiper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-tabs/u-tabs.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-tag/u-tag.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-td/u-td.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-th/u-th.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-time-line-item/u-time-line-item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-time-line/u-time-line.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-toast/u-toast.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-top-tips/u-top-tips.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-tr/u-tr.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-upload/u-upload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-verification-code/u-verification-code.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/components/u-waterfall/u-waterfall.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/config/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/config/zIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/css/color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/css/common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/css/style.components.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/css/style.h5.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/css/style.mp.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/css/style.nvue.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/css/style.vue.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/addUnit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/bem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/colorGradient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/deepClone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/deepMerge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/getParent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/guid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/md5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/queryParams.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/random.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/randomArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/timeFormat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/timeFrom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/trim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/function/type2icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/mixin/mixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/mixin/mpShare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/request/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/util/area.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/util/async-validator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/util/city.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/util/emitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/libs/util/province.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uni-Music/Uni-Music2/uview-ui/theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/assets/styles/theme/fonts/element-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/assets/styles/theme/fonts/element-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/assets/styles/theme/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/components/DeviceEdit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/components/DeviceFilter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/components/DeviceIcon.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/components/DeviceList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/element-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/plugins/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/views/Device.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admin-ui/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/pages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/pages/index/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/uni.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/.automator/mp-weixin/.automator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/common/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/common/main.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/common/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/common/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/build/mp-weixin/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/.automator/mp-weixin/.automator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/.sourcemap/mp-weixin/common/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/.sourcemap/mp-weixin/common/runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/.sourcemap/mp-weixin/common/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/.sourcemap/mp-weixin/pages/index/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/common/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/common/main.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/common/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/common/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/sitemap20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asHome/asHome/unpackage/dist/dev/mp-weixin/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../covid-19-gis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myvue01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myvue01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myvue01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myvue01/.idea/myvue01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myvue01/demo02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myvue01/demo03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myvue01/demo04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myvue01/demo05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myvue01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-home" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/assets/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/assets/logo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/assets/logo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/assets/logo3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/assets/qrcode.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/assets/styles/logo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/assets/styles/logo3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/assets/styles/varibles.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/components/HomeFooter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/components/HomeForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/components/HomeHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-register/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nbb-uniapp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node/.idea/shujujiegou.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nuodrive-frontend/.idea/nuodrive-frontend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nuodrive-frontend/public/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pan/.idea/pan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/pages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/pages/index/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/static/backgroud_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/static/clock@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/static/normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/static/normalStudent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/static/qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/static/rightback.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/static/studyStudent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/uni.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/.automator/mp-weixin/.automator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/common/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/common/main.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/common/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/common/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/static/backgroud_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/static/clock@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/static/normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/static/normalStudent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/static/qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/static/rightback.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/build/mp-weixin/static/studyStudent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/.automator/mp-weixin/.automator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/.sourcemap/mp-weixin/common/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/.sourcemap/mp-weixin/common/runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/.sourcemap/mp-weixin/common/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/.sourcemap/mp-weixin/pages/index/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/common/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/common/main.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/common/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/common/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/sitemap88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/static/backgroud_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/static/clock@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/static/normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/static/normalStudent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/static/qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/static/record_icon23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/static/rightback.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/passport/unpackage/dist/dev/mp-weixin/static/studyStudent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qunar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk8_pages/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../zk8_pages/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk8_pages/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../zk8_pages/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk8_pages/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../zk8_pages/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk8_pages/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk8_pages/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../zk8_pages/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/cloudfunctions-aliyun/add/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/cloudfunctions-aliyun/common/hello-common/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/cloudfunctions-aliyun/common/hello-common/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/cloudfunctions-aliyun/db_init.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/cloudfunctions-aliyun/get/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/cloudfunctions-aliyun/remove/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/cloudfunctions-aliyun/test1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/cloudfunctions-aliyun/update/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/cloudfunctions-aliyun/use-common/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/pages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/pages/index/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/uni.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/.automator/mp-weixin/.automator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/.sourcemap/mp-weixin/common/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/.sourcemap/mp-weixin/common/runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/.sourcemap/mp-weixin/common/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/.sourcemap/mp-weixin/pages/index/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/common/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/common/main.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/common/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/common/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zk_uni/unpackage/dist/dev/mp-weixin/static/logo.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Less File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1mCP5VBWXFw9NE8qKx6keb9TONl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.16" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/Home" />
+      <recent name="$PROJECT_DIR$/src/pages/App/ToolBar" />
+      <recent name="$PROJECT_DIR$/src/pages/App/index" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="af48ed91-0c5b-4635-8585-9613b04758c5" name="默认的" comment="" />
+      <created>1608994416604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608994416604</updated>
+      <workItem from="1608994417718" duration="6065000" />
+      <workItem from="1609002339443" duration="32767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

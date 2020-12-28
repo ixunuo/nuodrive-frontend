@@ -1,0 +1,33 @@
+.tableList {
+  .ant-table-tbody {
+    .ant-checkbox-wrapper {
+      transition: opacity .1s linear;
+      opacity: 0;
+      &:hover {
+        opacity: 1;
+      }
+    }
+    .ant-checkbox-wrapper-checked {
+      opacity: 1;
+    }
+  }
+  .ant-table-row {
+    cursor: pointer;
+  }
+  .nameWrap {
+    display: flex;
+    align-items: center;
+  }
+}
+
+#toolBar {
+  .toolBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12px;
+    .input {
+      width: 200px;
+    }
+  }
+}
+
