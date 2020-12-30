@@ -1,7 +1,8 @@
 .tableList {
+  padding-bottom: 30px;
   .ant-table-tbody {
     .ant-checkbox-wrapper {
-      transition: opacity .1s linear;
+      //transition: opacity .1s linear;
       opacity: 0;
       &:hover {
         opacity: 1;
@@ -13,20 +14,35 @@
   }
   .ant-table-row {
     cursor: pointer;
+    .ant-table-cell {
+      user-select: none;
+    }
   }
   .nameWrap {
     display: flex;
     align-items: center;
   }
+  .ant-table-column-sort {
+    background: none;
+  }
 }
 
 #toolBar {
+  padding: 10px 0;
   .toolBar {
     display: flex;
     justify-content: space-between;
     padding: 0 12px;
     .input {
       width: 200px;
+    }
+    .toolBar2 {
+      button {
+        margin: 0 3px;
+        &:first-child {
+          margin-left: 0;
+        }
+      }
     }
   }
 }

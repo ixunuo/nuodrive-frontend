@@ -23,9 +23,13 @@ function Breadcrumb({prefix, path}) {
       <Link to={"/" + prefix}>首页</Link>
       {path ? path.split('/').filter(item => item).map((item, index) => {
         if (index < path.split('/').filter(item => item).length - 1) {
-          return <Fragment key={index}><Separation /><Link to={`/${prefix}/` + path.split('/').filter(item => item).slice(0, index + 1).join('/')}>{item}</Link></Fragment>
+          return <Fragment key={index}><Separation /><Link to={`/${prefix}/` + path.split('/').filter(item => item).slice(0, index + 1).join('/')}>{
+            item.length < 9 ? item : item.slice(0, 6) + '…'
+          }</Link></Fragment>
         } else {
-          return <span key={index} className="current"><Separation />{item}</span>
+          return <span key={index} className="current"><Separation />{
+            item.length < 9 ? item : item.slice(0, 6) + '…'
+          }</span>
         }
       }) : null}
     </>

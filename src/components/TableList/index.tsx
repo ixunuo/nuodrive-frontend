@@ -1,9 +1,12 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import { Table, Button, Input} from 'antd';
-import {FileTwoTone, FolderTwoTone, FileImageTwoTone, FileTextTwoTone, VideoCameraTwoTone, FileTextOutlined} from '@ant-design/icons'
-import './tableList.less'
+import {FileTwoTone, FolderTwoTone, FileImageTwoTone, VideoCameraTwoTone, FileTextOutlined,
+  CloudUploadOutlined, CloudDownloadOutlined, SelectOutlined, ShareAltOutlined, StarOutlined, AppleOutlined} from '@ant-design/icons'
 // @ts-ignore
 import ToolBar from '/@components/ToolBar'
+// @ts-ignore
+import naturalSort from '/@lib/naturalSort.js'
+import './tableList.less'
 
 const useIcon = (record) => {
   const baseStyle = { fontSize: 20, marginRight: 10 }
@@ -39,7 +42,20 @@ const columns = [
       return <div className="nameWrap">
         {useIcon(record)}{text}
       </div>
-    }
+    },
+    sorter: {
+      compare: (a, b) => {
+        let ret = 0
+        if (a && a.type === 'dir') {
+          ret -= 100
+        }
+        if (b && b.type === 'dir') {
+          ret += 100
+        }
+        return ret + naturalSort(a.name.replace(/^第/, ""), b.name.replace(/^第/, ""))
+      }
+    },
+    defaultSortOrder: "ascend"
   },
   {
     title: '大小',
@@ -53,6 +69,18 @@ const columns = [
         i++
       }
       return ret.toFixed(1) + unit[i]
+    },
+    sorter: {
+      compare: (a, b) => {
+        let ret = 0
+        if (a && a.type === 'dir') {
+          ret -= 100
+        }
+        if (b && b.type === 'dir') {
+          ret += 100
+        }
+        return a.size - b.size
+      }
     }
   },
   {
@@ -60,6 +88,11 @@ const columns = [
     dataIndex: 'time',
     render: (text) => {
       return (new Date(text)).toLocaleString('zh-CN', { hour12: false })
+    },
+    sorter: {
+      compare: (a, b) => {
+        return Number(new Date(a.time)) - Number(new Date(b.time))
+      }
     }
   }
 ];
@@ -67,7 +100,11 @@ const columns = [
 function TableList({ data, loading, pathChange, preview }) {
   const [selectedRowKeys, setSelectedRowKeys] = useState([])
   const hasSelected = selectedRowKeys.length > 0;
-  const [showContextMenu, setShowContextMenu] = useState(false)
+
+  useEffect(() => {
+    if (loading) setSelectedRowKeys([])
+  }, [loading])
+
   const onSelectChange = selectedRowKeys => {
     console.log('selectedRowKeys changed: ', selectedRowKeys);
     setSelectedRowKeys(selectedRowKeys);
@@ -78,19 +115,33 @@ function TableList({ data, loading, pathChange, preview }) {
   };
 
   const toolBar1 = <>
-    <Button type="primary">上传文件</Button>
+    <Button icon={<CloudUploadOutlined />} type="primary">上传</Button>
     <Search className="input" placeholder="搜索您的文件"/>
+  </>
+
+  const toolBar2 = <>
+    <div className="toolBar2">
+      <Button icon={<CloudDownloadOutlined />} type="primary">下载</Button>
+      <Button icon={<SelectOutlined />}>预览</Button>
+      <Button icon={<ShareAltOutlined />}>分享</Button>
+      <Button icon={<StarOutlined />}>收藏</Button>
+    </div>
+    {/*<Button icon={<AppleOutlined />}>在iina中打开</Button>*/}
+    {/*<Search className="input" placeholder="搜索您的文件"/>*/}
   </>
   return (
     <div className="tableList">
       <ToolBar>
         <div  className="toolBar">
-          {hasSelected ? `Selected ${selectedRowKeys.length} items` : toolBar1}
+          {hasSelected ? toolBar2 : toolBar1}
         </div>
       </ToolBar>
-      <Table rowSelection={rowSelection} columns={columns} dataSource={data} onRow={(record, index) => {
+      <Table rowSelection={rowSelection} columns={columns} dataSource={data} onRow={(record) => {
         return {
-          onDoubleClick: () => {
+          onDoubleClick: (e) => {
+            if (window['timer']) {
+              delete window['timer']
+            }
             if (record.type === 'dir') {
               pathChange(record)
             } else {
@@ -99,19 +150,24 @@ function TableList({ data, loading, pathChange, preview }) {
           },
           onClick: () => {
             // @ts-ignore
-            if (selectedRowKeys.includes(index) && selectedRowKeys.length === 1) {
-              setSelectedRowKeys([])
+            if (selectedRowKeys.includes(record.key) && selectedRowKeys.length === 1) {
+              window['timer'] = setTimeout(() => {
+                if (window['timer']) setSelectedRowKeys([])
+                delete window['timer']
+              }, 250)
             } else {
               // @ts-ignore
-              setSelectedRowKeys([index])
+              setSelectedRowKeys([record.key])
+              delete window['timer']
+              // window['timer'] = setTimeout(() => {
+              //   // @ts-ignore
+              //   if (window['timer']) setSelectedRowKeys([record.key])
+              //   delete window['timer']
+              // }, 250)
             }
           }
-          // onContextMenu: (e) => {
-          //   e.preventDefault()
-          //   setShowContextMenu(showContextMenu => !showContextMenu)
-          // }
         }
-      }} loading={loading}/>
+      }} loading={loading} pagination={false}/>
     </div>
   );
 }
