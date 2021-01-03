@@ -685,30 +685,18 @@
       <change beforePath="$PROJECT_DIR$/../node/.idea/shujujiegou.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../nuodrive-frontend/.idea/nuodrive-frontend.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../nuodrive-frontend/public/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Breadcrumb/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Breadcrumb/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Breadcrumb/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Breadcrumb/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Preview/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Preview/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/TableList/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TableList/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/TableList/tableList.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TableList/tableList.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ToolBar/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToolBar/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/axios.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/axios.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/App/ToolBar/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/App/ToolBar/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/App/ToolBar/toolBar.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/App/ToolBar/toolBar.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/App/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/App/index.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/App/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/App/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Favorites/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Favorites/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/index.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Preview/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Preview/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Preview/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Preview/preview.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pan/.idea/pan.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../passport/passport/App.vue" beforeDir="false" />
@@ -823,8 +811,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="TypeScript JSX File" />
         <option value="Less File" />
+        <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -876,6 +865,8 @@
       <workItem from="1609002339443" duration="37157000" />
       <workItem from="1609251313737" duration="1715000" />
       <workItem from="1609339973254" duration="103000" />
+      <workItem from="1609486666015" duration="7861000" />
+      <workItem from="1609585216770" duration="5000" />
     </task>
     <servers />
   </component>

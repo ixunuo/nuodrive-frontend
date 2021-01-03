@@ -1,5 +1,4 @@
 .tableList {
-  padding-bottom: 30px;
   .ant-table-tbody {
     .ant-checkbox-wrapper {
       //transition: opacity .1s linear;
@@ -12,6 +11,9 @@
       opacity: 1;
     }
   }
+  .ant-table-column-sorters {
+    white-space: nowrap;
+  }
   .ant-table-row {
     cursor: pointer;
     .ant-table-cell {
@@ -20,7 +22,16 @@
   }
   .nameWrap {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
+    .ant-typography {
+      margin-bottom: 0;
+    }
+    //text-overflow: ellipsis;
+    //overflow: hidden;
+    //-webkit-box-orient: vertical;
+    //display: -webkit-box;
+    //-webkit-line-clamp: 2;
+    //width: 100px;
   }
   .ant-table-column-sort {
     background: none;
@@ -29,12 +40,14 @@
 
 #toolBar {
   padding: 10px 0;
+  border-bottom: 1px solid #f0f0f0;
   .toolBar {
     display: flex;
     justify-content: space-between;
     padding: 0 12px;
     .input {
-      width: 200px;
+      width: 50%;
+      max-width: 200px;
     }
     .toolBar2 {
       button {

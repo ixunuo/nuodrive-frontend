@@ -1,6 +1,5 @@
 import Home from './pages/Home'
 import Favorites from './pages/Favorites'
-import Preview from './pages/Preview'
 
 const route = [
   {
@@ -11,11 +10,6 @@ const route = [
   {
     path: '/favorites',
     component: Favorites,
-    exact: false
-  },
-  {
-    path: '/preview',
-    component: Preview,
     exact: false
   }
 ]

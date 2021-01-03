@@ -65,7 +65,7 @@ const Index: FC = () => {
         </Header>
         <Content className="content">
           <div id="toolBar" />
-          <div className="site-layout-background" style={{ padding: "0 8px", flex: 1, overflow: "auto" }}>
+          <div className="site-layout-background" style={{ flex: 1, overflowY: "auto", display: "flex", overflowX: "hidden" }}>
             <HashRouter>
               {router.map(({ path, component, exact } )=> {
                 return <Route exact={exact} path={path} component={component} key={path}/>

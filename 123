@@ -1,0 +1,14 @@
+src/gz openwrt_core https://mirrors.ustc.edu.cn/lede/snapshots/targets/ramips/mt7620/packages
+src/gz openwrt_base https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/base
+src/gz openwrt_freifunk https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/freifunk
+src/gz openwrt_helloworld https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/helloworld
+src/gz openwrt_ifit https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/ifit
+src/gz openwrt_kenzo https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/kenzo
+src/gz openwrt_lienol https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/lienol
+src/gz openwrt_luci https://mirrors.ustc.edu.cn/lede/releases/18.06.8/packages/mipsel_24kc/luci
+src/gz openwrt_packages https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/packages
+src/gz openwrt_passwall https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/passwall
+src/gz openwrt_routing https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/routing
+src/gz openwrt_sirpdboy https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/sirpdboy
+src/gz openwrt_small https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/small
+src/gz openwrt_telephony https://mirrors.ustc.edu.cn/lede/snapshots/packages/mipsel_24kc/telephony

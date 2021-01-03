@@ -1,12 +1,17 @@
 import React, {useEffect, useState} from 'react';
-import { Table, Button, Input} from 'antd';
+import { Table, Button, Input, Typography } from 'antd';
 import {FileTwoTone, FolderTwoTone, FileImageTwoTone, VideoCameraTwoTone, FileTextOutlined,
-  CloudUploadOutlined, CloudDownloadOutlined, SelectOutlined, ShareAltOutlined, StarOutlined, AppleOutlined} from '@ant-design/icons'
+  CloudUploadOutlined, CloudDownloadOutlined, SelectOutlined, ShareAltOutlined, StarOutlined,
+  AppleOutlined, FilePdfTwoTone} from '@ant-design/icons'
 // @ts-ignore
 import ToolBar from '/@components/ToolBar'
 // @ts-ignore
+import Responsive from '/@components/Responsive'
+// @ts-ignore
 import naturalSort from '/@lib/naturalSort.js'
 import './tableList.less'
+
+const { Paragraph } = Typography;
 
 const useIcon = (record) => {
   const baseStyle = { fontSize: 20, marginRight: 10 }
@@ -27,6 +32,9 @@ const useIcon = (record) => {
     case "txt":
       icon = <FileTextOutlined style={{...baseStyle, color: "#595959"}}/>
       break
+    case "pdf":
+      icon = <FilePdfTwoTone style={{...baseStyle}} twoToneColor="#cf1322"/>
+      break
     default:
       icon = <FileTwoTone style={baseStyle}/>
   }
@@ -40,7 +48,8 @@ const columns = [
     dataIndex: 'name',
     render: (text, record) => {
       return <div className="nameWrap">
-        {useIcon(record)}{text}
+        {useIcon(record)}
+        <Paragraph ellipsis={{ rows: 2 }}>{text}</Paragraph>
       </div>
     },
     sorter: {
@@ -93,7 +102,8 @@ const columns = [
       compare: (a, b) => {
         return Number(new Date(a.time)) - Number(new Date(b.time))
       }
-    }
+    },
+    responsive: ['md']
   }
 ];
 
@@ -115,19 +125,18 @@ function TableList({ data, loading, pathChange, preview }) {
   };
 
   const toolBar1 = <>
-    <Button icon={<CloudUploadOutlined />} type="primary">上传</Button>
+    <Button icon={<CloudUploadOutlined />} type="primary"><Responsive breakPoint="md">上传</Responsive></Button>
     <Search className="input" placeholder="搜索您的文件"/>
   </>
 
   const toolBar2 = <>
     <div className="toolBar2">
-      <Button icon={<CloudDownloadOutlined />} type="primary">下载</Button>
-      <Button icon={<SelectOutlined />}>预览</Button>
-      <Button icon={<ShareAltOutlined />}>分享</Button>
-      <Button icon={<StarOutlined />}>收藏</Button>
+      <Button icon={<CloudDownloadOutlined />} type="primary"><Responsive breakPoint="md">下载</Responsive></Button>
+      <Button icon={<SelectOutlined />}><Responsive breakPoint="md">预览</Responsive></Button>
+      <Button icon={<ShareAltOutlined />}><Responsive breakPoint="md">分享</Responsive></Button>
+      <Button icon={<StarOutlined />}><Responsive breakPoint="md">收藏</Responsive></Button>
     </div>
-    {/*<Button icon={<AppleOutlined />}>在iina中打开</Button>*/}
-    {/*<Search className="input" placeholder="搜索您的文件"/>*/}
+    <Responsive breakPoint="md"><Button icon={<AppleOutlined />}>在iina中打开</Button></Responsive>
   </>
   return (
     <div className="tableList">
@@ -138,32 +147,33 @@ function TableList({ data, loading, pathChange, preview }) {
       </ToolBar>
       <Table rowSelection={rowSelection} columns={columns} dataSource={data} onRow={(record) => {
         return {
-          onDoubleClick: (e) => {
-            if (window['timer']) {
-              delete window['timer']
-            }
-            if (record.type === 'dir') {
-              pathChange(record)
-            } else {
-              preview(record)
-            }
-          },
           onClick: () => {
+            delete window['timer']
             // @ts-ignore
-            if (selectedRowKeys.includes(record.key) && selectedRowKeys.length === 1) {
-              window['timer'] = setTimeout(() => {
-                if (window['timer']) setSelectedRowKeys([])
-                delete window['timer']
-              }, 250)
-            } else {
+            setSelectedRowKeys([record.key])
+            // @ts-ignore
+            if (!window['clicked']) {
               // @ts-ignore
-              setSelectedRowKeys([record.key])
-              delete window['timer']
-              // window['timer'] = setTimeout(() => {
-              //   // @ts-ignore
-              //   if (window['timer']) setSelectedRowKeys([record.key])
-              //   delete window['timer']
-              // }, 250)
+              if (selectedRowKeys.includes(record.key) && selectedRowKeys.length === 1) {
+                window['timer'] = setTimeout(() => {
+                  if (window['timer']) setSelectedRowKeys([])
+                  delete window['timer']
+                }, 220)
+              }
+              window['clicked'] = 1
+              setTimeout(() => {
+                delete window['clicked']
+              }, 220)
+            } else {
+              delete window['clicked']
+              if (window['timer']) {
+                delete window['timer']
+              }
+              if (record.type === 'dir') {
+                pathChange(record)
+              } else {
+                preview(record)
+              }
             }
           }
         }

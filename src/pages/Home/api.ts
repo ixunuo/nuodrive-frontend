@@ -19,6 +19,7 @@ const useType = (record) => {
   else if (match(record.name, ['png', 'jpg', 'bmp'])) type = "img"  // 图片
   else if (match(record.name, ['txt'])) type = "txt"  // txt文本
   else if (match(record.name, ['mp4', 'flv'])) type = "video"  // 视频
+  else if (match(record.name, ['pdf'])) type = "pdf"  // PDF
   return type
 }
 
