@@ -463,6 +463,11 @@
   resolved "https://registry.npm.taobao.org/@types/parse-json/download/@types/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
   integrity sha1-L4u0QUNNFjs1+4/9zNcTiSf/uMA=
 
+"@types/pdfjs-dist@*":
+  version "2.1.7"
+  resolved "https://registry.yarnpkg.com/@types/pdfjs-dist/-/pdfjs-dist-2.1.7.tgz#a92d94b9d699a93ab8a762839f7819dc04e96484"
+  integrity sha512-nQIwcPUhkAIyn7x9NS0lR/qxYfd5unRtfGkMjvpgF4Sh28IXftRymaNmFKTTdejDNY25NDGSIyjwj/BRwAPexg==
+
 "@types/prop-types@*":
   version "15.7.3"
   resolved "https://registry.npm.taobao.org/@types/prop-types/download/@types/prop-types-15.7.3.tgz#2ab0d5da2e5815f94b0b9d4b95d1e5f243ab2ca7"
@@ -483,6 +488,14 @@
   resolved "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-17.0.0.tgz#b3b691eb956c4b3401777ee67b900cb28415d95a"
   integrity sha1-s7aR65VsSzQBd37me5AMsoQV2Vo=
   dependencies:
+    "@types/react" "*"
+
+"@types/react-pdf@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@types/react-pdf/-/react-pdf-5.0.0.tgz#cb574e08929944c0b60fcce8cc569da1c94c9cc4"
+  integrity sha512-G5S6BzzRJIwFpLIjqfNUzm0e0MNxM4KpcHbKif4U/AF44MBiuWqsjw+t7xpI3poZdEtLF0fKd8kRnrMCJwH/iQ==
+  dependencies:
+    "@types/pdfjs-dist" "*"
     "@types/react" "*"
 
 "@types/react-router-dom@^5.1.6":
@@ -2755,8 +2768,8 @@ react-is@^16.12.0, react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1:
 
 react-pdf@^5.1.0:
   version "5.1.0"
-  resolved "https://registry.npm.taobao.org/react-pdf/download/react-pdf-5.1.0.tgz#ca3b8379376fd71a7a134f623e705534e2eaf0e6"
-  integrity sha1-yjuDeTdv1xp6E09iPnBVNOLq8OY=
+  resolved "https://registry.yarnpkg.com/react-pdf/-/react-pdf-5.1.0.tgz#ca3b8379376fd71a7a134f623e705534e2eaf0e6"
+  integrity sha512-8lht8UT/+M57jQ0yGRgnRweJt3iq99CsdLCE/epZAf3PTw942BW1/wLCGrhK/881j6G3GmFn4iR+aQFHHBVjUw==
   dependencies:
     "@babel/runtime" "^7.0.0"
     make-cancellable-promise "^1.0.0"

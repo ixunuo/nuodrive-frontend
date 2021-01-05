@@ -50,7 +50,7 @@ function Home(props) {
         setRecord({})
       }} footer={null} destroyOnClose={true} maskStyle={{
         // backdropFilter: "saturate(180%) blur(3px)",
-        background: "rgba(0, 0, 0, 0.9)"
+        background: "rgba(0, 0, 0, 0.8)"
       }}>
         { record['url'] && <Preview record={record} /> }
       </Modal>

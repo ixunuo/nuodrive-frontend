@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import { Table, Button, Input, Typography } from 'antd';
 import {FileTwoTone, FolderTwoTone, FileImageTwoTone, VideoCameraTwoTone, FileTextOutlined,
   CloudUploadOutlined, CloudDownloadOutlined, SelectOutlined, ShareAltOutlined, StarOutlined,
-  AppleOutlined, FilePdfTwoTone} from '@ant-design/icons'
+  AppleOutlined, FilePdfTwoTone, FileWordTwoTone, FileExcelTwoTone, FilePptTwoTone, ProjectOutlined} from '@ant-design/icons'
 // @ts-ignore
 import ToolBar from '/@components/ToolBar'
 // @ts-ignore
@@ -24,16 +24,28 @@ const useIcon = (record) => {
       icon = <FolderTwoTone style={baseStyle} twoToneColor="#d48806"/>
       break
     case "img":
-      icon = <FileImageTwoTone style={baseStyle} twoToneColor="#f759ab"/>
+      icon = <FileImageTwoTone style={baseStyle} twoToneColor="#36cfc9"/>
       break
     case "video":
       icon = <VideoCameraTwoTone style={baseStyle} twoToneColor="#cf1322"/>
       break
     case "txt":
-      icon = <FileTextOutlined style={{...baseStyle, color: "#595959"}}/>
+      icon = <ProjectOutlined style={baseStyle}/>
       break
     case "pdf":
       icon = <FilePdfTwoTone style={{...baseStyle}} twoToneColor="#cf1322"/>
+      break
+    case "doc":
+      icon = <FileWordTwoTone style={{...baseStyle}}/>
+      break
+    case "ppt":
+      icon = <FilePptTwoTone style={{...baseStyle}} twoToneColor="#f759ab"/>
+      break
+    case "xls":
+      icon = <FileExcelTwoTone style={{...baseStyle}} twoToneColor="#52c41a"/>
+      break
+    case "code":
+      icon = <FileTextOutlined style={{...baseStyle, color: "#595959"}}/>
       break
     default:
       icon = <FileTwoTone style={baseStyle}/>

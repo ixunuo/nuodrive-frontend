@@ -1,0 +1,15 @@
+.pdfPreview {
+  max-height: calc(100vh - 120px);
+  user-select: none;
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: 100%;
+}
+.react-pdf__Document {
+  .react-pdf__Page {
+    canvas {
+      width: 100% !important;
+      height: auto !important;
+    }
+  }
+}

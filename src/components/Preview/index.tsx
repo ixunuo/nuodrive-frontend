@@ -1,7 +1,8 @@
-import React, {useState} from 'react'
+import React, {useEffect, useState} from 'react'
 import { Spin, Image } from 'antd'
 import DPlayer from "react-dplayer"
-import PdfViewer from './PdfViewer'
+import PdfViewer from './PDF'
+import CodeViewer from './Code'
 
 let useCdn
 useCdn = 'http://downproxy.xunuo.ga?url='
@@ -43,9 +44,23 @@ function Index({ record }) {
         <PdfViewer url={url}/>
       )
       break
+    case "doc": case "ppt": case "xls":
+      previewDom = (
+        <iframe width="100%" style={{height: "calc(100vh - 120px)"}} frameBorder="no" src={"http://view.officeapps.live.com/op/view.aspx?src=" + encodeURIComponent(url)} />
+      )
+      break
+    case "txt":
+      previewDom = (
+        <CodeViewer url={url} />
+        // <div style={{padding: 20, maxHeight: "calc(100vh - 120px)", overflow: "auto"}}>{data}</div>
+      )
+      break
+    case "code":
+      previewDom = (
+        <CodeViewer url={url} />
+      )
   }
   return previewDom
-
 }
 
 export default Index;

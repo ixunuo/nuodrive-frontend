@@ -20,6 +20,10 @@ const useType = (record) => {
   else if (match(record.name, ['txt'])) type = "txt"  // txt文本
   else if (match(record.name, ['mp4', 'flv'])) type = "video"  // 视频
   else if (match(record.name, ['pdf'])) type = "pdf"  // PDF
+  else if (match(record.name, ['doc', 'docx'])) type = "doc"  // doc
+  else if (match(record.name, ['ppt', 'pptx'])) type = "ppt"  // ppt
+  else if (match(record.name, ['xls', 'xlsx'])) type = "xls"  // xls
+  else if (match(record.name, ['js', 'ts', 'html', 'css', 'less', 'scss', 'styl'])) type = "code"  // xls
   return type
 }
 
