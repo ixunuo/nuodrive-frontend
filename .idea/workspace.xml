@@ -686,14 +686,10 @@
       <change beforePath="$PROJECT_DIR$/../nuodrive-frontend/.idea/nuodrive-frontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nuodrive-frontend/.idea/nuodrive-frontend.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nuodrive-frontend/public/reset.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Preview/PdfViewer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Preview/PDF/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Preview/PDF/index.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Preview/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Preview/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TableList/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TableList/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/pdfWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/pdfWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/index.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pan/.idea/pan.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../passport/passport/App.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../passport/passport/main.js" beforeDir="false" />
@@ -807,9 +803,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="Less File" />
         <option value="JavaScript File" />
         <option value="TypeScript JSX File" />
+        <option value="Less File" />
       </list>
     </option>
   </component>
@@ -836,7 +832,7 @@
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.16" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -863,7 +859,10 @@
       <workItem from="1609339973254" duration="103000" />
       <workItem from="1609486666015" duration="7861000" />
       <workItem from="1609585216770" duration="5000" />
-      <workItem from="1609687592191" duration="10744000" />
+      <workItem from="1609687592191" duration="12347000" />
+      <workItem from="1610021660048" duration="1572000" />
+      <workItem from="1610027115955" duration="174000" />
+      <workItem from="1610028255988" duration="3477000" />
     </task>
     <servers />
   </component>

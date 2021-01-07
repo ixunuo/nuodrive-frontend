@@ -45,7 +45,7 @@ function Home(props) {
 
   return (
     <div className="home">
-      <Modal title="预览" visible={showPreview} width="80vmin" centered={true} wrapClassName="homePreviewWrap" onCancel={() => {
+      <Modal title="预览" visible={showPreview} width={screens['md'] ? '80vmin' : '100vw'} style={{height: screens['md'] ? '' : '100vh'}} centered={true} wrapClassName="homePreviewWrap" onCancel={() => {
         setShowPreview(false)
         setRecord({})
       }} footer={null} destroyOnClose={true} maskStyle={{
